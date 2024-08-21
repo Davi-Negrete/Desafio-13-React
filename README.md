@@ -1,6 +1,6 @@
-# Desafío-12-React-Mini Aplicación de Usuarios
+# Desafío 13 - React - Mini Aplicación de Usuarios - Usando Fetch y React Router.
 
 ## Luis David Negrete Otero
 
-### Link al Repo de GitHub: "https://github.com/Davi-Negrete/Desafio-12-React"
+### Link al Repo de GitHub: "https://github.com/Davi-Negrete/Desafio-13-React"
 
