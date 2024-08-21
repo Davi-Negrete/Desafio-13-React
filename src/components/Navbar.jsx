@@ -5,7 +5,7 @@ import NavItem from "./NavItem"
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-3 sticky-top">
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
           Ejercicio-13-React
