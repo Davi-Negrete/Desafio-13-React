@@ -83,7 +83,7 @@ const Usuarios = () => {
 
       // 1. Peticion asincronica para borrar el usuario.
 
-      const urlEliminacion = url + id // http://localhost:8080/usuarios/{id}
+      const urlEliminacion = url + id 
 
       const options = {
         method: 'DELETE'
